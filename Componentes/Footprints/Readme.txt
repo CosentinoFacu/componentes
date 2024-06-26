@@ -1,1 +1,1 @@
-Simbolos para componentes de altium
+Footprint para componentes de altium
